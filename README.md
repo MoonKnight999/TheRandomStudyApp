@@ -9,9 +9,10 @@
 - **Progress Tracking**: Track your study progress over time.
 - **Reminders**: Set reminders for study sessions or upcoming exams.
 
-## Getting Started
+## Editing and Downloading
+**If you dont want to use git, you can just download a ZIP file by first clicking on the green CODE button (present on top right, next to the project name) and then a dropdown will appear. Click on download ZIP.**
 
-1. **Clone the repository**:
+1. **If you dont want the ZIP: Clone the repository**:
    ```bash
    git clone https://github.com/YourUsername/StudyApp.git
    ```
